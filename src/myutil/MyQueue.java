@@ -1,0 +1,5 @@
+package myutil;
+
+class MyQueue {
+
+}
